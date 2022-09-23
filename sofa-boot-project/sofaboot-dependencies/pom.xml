@@ -22,7 +22,7 @@
         <project.build.encoding>UTF-8</project.build.encoding>
         <project.build.encoding>UTF-8</project.build.encoding>
 
-        <sofa.boot.version>3.2.0-SNAPSHOT</sofa.boot.version>
+        <sofa.boot.version>3.14.0</sofa.boot.version>
 
         <!--starter-->
         <sofa.ark.version>1.0.0</sofa.ark.version>
@@ -43,7 +43,7 @@
         <javassist.version>3.19.0-GA</javassist.version>
         <protobuf-java.version>2.6.1</protobuf-java.version>
         <guice.version>3.0</guice.version>
-        <guava.version>18.0</guava.version>
+        <guava.version>30.0-android</guava.version>
         <zipkin.version>2.11.3</zipkin.version>
         <zipkin.reporter.version>2.7.7</zipkin.reporter.version>
 
