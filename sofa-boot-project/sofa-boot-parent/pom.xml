@@ -28,7 +28,7 @@
         <maven.surefire.plugin>2.21.0</maven.surefire.plugin>
 
         <!-- for dependencyManagement -->
-        <spring.cloud.starter.openfeign.version>2.1.0.RELEASE</spring.cloud.starter.openfeign.version>
+        <spring.cloud.starter.openfeign.version>5.0.0</spring.cloud.starter.openfeign.version>
         <javax.servlet.version>3.1.0</javax.servlet.version>
         <commons.io.version>2.4</commons.io.version>
         <HikariCP.java6.version>2.3.8</HikariCP.java6.version>
